@@ -1,2 +1,2 @@
-# banned-book-library
+# Banned Book Library
 COMS BC 3997 Project
